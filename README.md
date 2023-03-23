@@ -42,11 +42,13 @@ THEN I find a concise, descriptive title
 
 
 
-## Mock-Up
+### Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://user-images.githubusercontent.com/59323783/227382315-2f9a5f08-afe0-49c6-8f0f-1a8cdc69472a.png)
 
 
-
+#### Access webpage 
+Deployed Page: https://ama-ali.github.io/Horiseon-Code-refactor/
+GitHub Repo: https://github.com/ama-ali/Horiseon-Code-refactor
